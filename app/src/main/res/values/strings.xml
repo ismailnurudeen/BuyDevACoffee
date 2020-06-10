@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Buy DevACoffee</string>
+    <string name="appeal_text">If you found this app useful,Consider buying the developers a cup of coffee to keep them motivated to add more features,fix bugs and making more amazing free apps. ️😎</string>
+    <string name="donate_price_1">$1.50</string>
+    <string name="donate_price_2">$2.50</string>
+    <string name="donate_price_3">$4.10</string>
+    <string name="small_coffee">donate_small_coffee</string>
+    <string name="medium_coffee">donate_medium_coffee</string>
+    <string name="big_coffee">donate_big_coffee</string>
+    <string name="support">Support ❤</string>
+    <string name="cappuccino">Cappuccino</string>
+    <string name="cafe_latte">Cafe Latte</string>
+    <string name="espresso">Espresso</string>
+    <string name="buy">BUY</string>
+    <string name="appeal_title">Buy Developers Some Coffee</string>
+    <string name="my_email">nurudroid1@gmail.com</string>
+    <string name="appeal_notice">*This app is absolutely free and contains no external advertisement.</string>
+</resources>
